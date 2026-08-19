@@ -1,0 +1,6 @@
+{
+  "name": "Informasi Kadus Bangli",
+  "description": "Direktori lengkap dan Kontak WhatsApp Kepala Dusun Kelian Banjar Dinas di Kabupaten Bangli Bali",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
